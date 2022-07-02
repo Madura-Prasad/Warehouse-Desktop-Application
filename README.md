@@ -1,6 +1,6 @@
 ### How to Run :
 
-dist->Warehouse.jar
+dist > Warehouse.jar
 
 ### Language :
 
