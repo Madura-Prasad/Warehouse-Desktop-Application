@@ -1,5 +1,6 @@
 ### How to Run : 
 - Download or clone this repository and go to the dist folder and find the WareHouse.jar file.
+- Before Running the Project you must import "smart_warehouse.sql" into MySQL.
 - Then run the .jar file.
 
 ### Main Screen :
