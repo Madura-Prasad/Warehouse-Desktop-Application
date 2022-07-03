@@ -3,4 +3,4 @@
 - Then run the .jar file.
 
 ### Main Screen :
-<img  align="left" alt="Visula Studio Code" width="300px" src="src/Images/1.png"/>
+<img  align="left" alt="Visula Studio Code" width="350px" src="src/Images/1.png"/>
